@@ -83,9 +83,6 @@ img.de {
 
 .webdesigntuts-workshop:before,
 .webdesigntuts-workshop:after {
-	content: '';
-	display: block;	
-	height: 1px;
 	margin: 0 0 0 -400px;
 	width: 100%;
 }
